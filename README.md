@@ -1,1 +1,1 @@
-# maven_app_deploy
+# Sample Web Application built using Maven
